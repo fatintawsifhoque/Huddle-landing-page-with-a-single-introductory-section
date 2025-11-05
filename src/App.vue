@@ -1,7 +1,7 @@
 <template>
   <div class="bg-[#674BB1] min-h-full">
     <div
-      class="h-full md:min-h-screen w-screen bg-[url(./bg-mobile.svg)] md:bg-[url(./bg-desktop.svg)] bg-no-repeat md:bg-center bg-size-[100%_auto] md:bg-size-[90%_100%] overflow-hidden"
+      class="h-full md:min-h-screen w-screen bg-[url(./bg-mobile.svg)] md:bg-[url(/public/bg-desktop.svg)] bg-no-repeat md:bg-center bg-size-[100%_auto] md:bg-size-[90%_100%] overflow-hidden"
     >
       <div class="m-[50px] md:m-20 overflow-hidden">
         <img src="/logo.svg" alt="Logo" />
